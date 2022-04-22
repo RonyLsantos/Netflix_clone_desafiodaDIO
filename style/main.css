@@ -1,6 +1,6 @@
 :root {
     --vermelho: #e50914;
-    --preto: #141414;
+    --preto: black;
 }
 
 * {
@@ -30,6 +30,12 @@ header .logo {
     font-family: "arial black", times;
     font-size: 40px;
     cursor: pointer;
+}
+
+.logo {
+    width: 100px;
+    display: flex;
+
 }
 
 header nav a {
