@@ -1,6 +1,6 @@
 # Netflix_clone_desafiodaDIO
 
-Esse prjeto foi realizado para fins de estudo no bootcamp da [DIO](https://www.dio.me)
+Esse projeto foi realizado para fins de estudo no bootcamp da [DIO](https://www.dio.me)
 
 ## Nesse projeto usei:
 ### HTML5, CSS3 e JavaScript
